@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there!
+### Hello there, I'm Naihe 👋
 
-I'm naihe. I love to create some interesting and open source. ❤️
+- I love to create some interesting and open source. ❤️
+- [@Blog](http://naihe.cf) [@Github](https://github.com/239144498)
 
 ![skills](https://skillicons.dev/icons?i=python,java,html,git,linux,stackoverflow,vscode,bash,deno,docker,flask)
 

@@ -23,7 +23,7 @@ I'm naihe. I love to create some interesting. 👋
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/biezhihua)
 
-[![naihe's GitHub stats](https://github-readme-stats.vercel.app/api?username=naihe&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naihe's GitHub stats](https://github-readme-stats.vercel.app/api?username=239144498&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My projects:
 

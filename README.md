@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-I'm naihe. I love to create some interesting. 👋
+I'm naihe. I love to create some interesting and open source. ❤️
 
 ![skills](https://skillicons.dev/icons?i=python,java,html,git,linux,stackoverflow,vscode,bash,deno,docker,flask)
 

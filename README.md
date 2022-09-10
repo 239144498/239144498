@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-![Count](https://api.nn.ci/biezhihua/count.svg?)
-
 I'm naihe. I love to create some interesting. 👋
 
-![skills](https://skillicons.dev/icons?i=java,kotlin,swift,rust,git,linux,stackoverflow,vscode,html,react,flutter)
+![skills](https://skillicons.dev/icons?i=python,java,html,git,linux,stackoverflow,vscode,bash,deno,docker,flask)
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/biezhihua)
 

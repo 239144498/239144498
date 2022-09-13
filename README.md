@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 My projects:
 
-+ [Streaming-Media-Server-Pro](https://github.com/239144498/Streaming-Media-Server-Pro): 这是一个强大的IPTV源后端服务，具有视频缓冲区功能.
++ [Streaming-Media-Server-Pro](https://github.com/239144498/Streaming-Media-Server-Pro): 这是一个强大的IPTV源后端服务，适合任意平台，且具有视频缓冲区功能。
 + 更多点击[Repositories](https://github.com/239144498?tab=repositories)查看

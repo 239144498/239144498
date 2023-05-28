@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 My projects:
 
 + [Streaming-Media-Server-Pro](https://github.com/239144498/Streaming-Media-Server-Pro): 这是一个强大的IPTV源后端服务，适合任意平台，且具有视频缓冲区功能。
++ [ClipSync](https://github.com/239144498/ClipSync): ClipSync服务支持多设备连接并且同步剪贴板内容，主打无感同步，不需要用户手动操作。
 + 更多点击[Repositories](https://github.com/239144498?tab=repositories)查看
